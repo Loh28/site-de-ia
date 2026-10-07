@@ -18,7 +18,8 @@
 - `#2A1014` (tinta): texto, bordas, header e footer
 
 **Fontes (Google Fonts)**
-- Títulos: Bagel Fat One, [escrever em uma frase por que escolheram]
+- Títulos grandes: Londrina Solid (parecida com a Laroka), [escrever em uma frase por que escolheram]
+- Subtítulos: Shrikhand (parecida com a Aprila e a Tropic), [escrever em uma frase por que escolheram]
 - Textos: Figtree, [escrever em uma frase por que escolheram]
 
 **Sites de inspiração**
